@@ -21,7 +21,6 @@
 		272539EB1879FF0100FBAE04 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 272539CD1879FF0100FBAE04 /* UIKit.framework */; };
 		272539F31879FF0100FBAE04 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 272539F11879FF0100FBAE04 /* InfoPlist.strings */; };
 		272539F51879FF0100FBAE04 /* kyle_s_demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 272539F41879FF0100FBAE04 /* kyle_s_demoTests.m */; };
-		272539FF187A4F6B00FBAE04 /* iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 272539FE187A4F6B00FBAE04 /* iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		272539F01879FF0100FBAE04 /* kyle's demoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kyle's demoTests-Info.plist"; sourceTree = "<group>"; };
 		272539F21879FF0100FBAE04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		272539F41879FF0100FBAE04 /* kyle_s_demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kyle_s_demoTests.m; sourceTree = "<group>"; };
-		272539FE187A4F6B00FBAE04 /* iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png"; path = "../../../../Desktop/iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,7 +126,6 @@
 		272539D01879FF0100FBAE04 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				272539FE187A4F6B00FBAE04 /* iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png */,
 				272539D11879FF0100FBAE04 /* kyle's demo-Info.plist */,
 				272539D21879FF0100FBAE04 /* InfoPlist.strings */,
 				272539D51879FF0100FBAE04 /* main.m */,
@@ -234,7 +231,6 @@
 				272539E21879FF0100FBAE04 /* Images.xcassets in Resources */,
 				272539D41879FF0100FBAE04 /* InfoPlist.strings in Resources */,
 				272539DD1879FF0100FBAE04 /* Main.storyboard in Resources */,
-				272539FF187A4F6B00FBAE04 /* iOS Simulator Screen shot Jan 5, 2014, 6.40.11 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
